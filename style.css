@@ -2,6 +2,18 @@
 	Property: value;
 }*/
 
+/*
+body{
+	background-image: url(buddies.jpg)
+
+}*/
+
+body {
+	background: pink;
+}
+
 .club_name {
-	color: pink;}
+	text-align: center;
+	font-style: bold;
+	}
 
