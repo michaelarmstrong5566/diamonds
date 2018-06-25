@@ -17,3 +17,8 @@ body {
 	font-style: bold;
 	}
 
+.d-block w-100 {
+	height: 250; 
+	width: 250;
+}
+
