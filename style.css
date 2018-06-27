@@ -20,5 +20,10 @@ body {
 	font-style: bold;
 }
 
+.d-block {
+	width: 250 px;
+	height: 250 px;
+
+}
 
 
