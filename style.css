@@ -21,8 +21,8 @@ body {
 }
 
 .d-block {
-	width: 250 px;
-	height: 250 px;
+	max-width: 500px;
+	max-height: 500px;
 
 }
 
