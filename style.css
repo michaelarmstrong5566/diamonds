@@ -2,12 +2,9 @@
 	Property: value;
 }*/
 
-
+/* Fallback Color pink*/
 body {
-	background-color: pink;
-	background: url(pink_diamond_background.jpg);
-	background-repeat: repeat-y, no-repeat;
-
+	background: url(pink_diamond_background.jpg) pink;
 }
 
 
