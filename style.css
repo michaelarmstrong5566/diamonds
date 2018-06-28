@@ -4,8 +4,8 @@
 
 
 body{
-	background: url(pink_diamond_background.jpg);
-	background-size: cover;
+	background-image: url(pink_diamond_background.jpg);
+	background-repeat: repeat;
 
 }
 
