@@ -5,7 +5,7 @@
 /* Fallback Color pink*/
 body {
 	background: url(pink_diamond_background.jpg) pink;
-	background-size: 10px 30px;
+	background-size: 20px 60px;
 }
 
 
@@ -20,7 +20,7 @@ body {
 }
 
 .d-block {
-	height: 10%;	
+	height: 50px;	
 }
 
 
