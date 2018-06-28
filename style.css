@@ -5,6 +5,7 @@
 /* Fallback Color pink*/
 body {
 	background: url(pink_diamond_background.jpg) pink;
+	background-size: 300px 100px;
 }
 
 
