@@ -17,6 +17,7 @@ body {
 .club_name {
 	text-align: center;
 	font-style: bold;
+	font-family: 'Playfair Display', serif;
 }
 
 .d-block {
