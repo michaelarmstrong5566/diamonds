@@ -18,7 +18,14 @@ body {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
-	font-size: xx-large;
+	font-size: large;
+}
+
+.sychro-club {
+	text-align: center;
+	font-style: bold;
+	font-family: 'Mr Dafoe', cursive;
+	font-size: large;
 }
 
 .-block {
