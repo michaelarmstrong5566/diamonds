@@ -14,7 +14,7 @@ body {
 	background: pink;
 }*/
 
-.club-name {
+#club-name {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
