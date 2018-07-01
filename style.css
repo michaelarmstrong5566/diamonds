@@ -14,22 +14,14 @@ body {
 	background: pink;
 }*/
 
-.club_name_nanaimo {
+.club-name {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
 	font-size: xx-large;
 }
 
-.club_name_diamonds {
-	text-align: center;
-	font-style: bold;
-	font-family: 'Playfair Display', serif;
-	font-size: xx-large;
-}
-
-
-.d-block {
+.-block {
 	height: 500px;	
 }
 
