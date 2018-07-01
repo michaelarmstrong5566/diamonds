@@ -18,14 +18,14 @@ body {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
-	font-size: large;
+	font-size: 50px;
 }
 
 .synchro_club {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Mr Dafoe', cursive;
-	font-size: large;
+	font-size: 2em;
 }
 
 .d-block {
