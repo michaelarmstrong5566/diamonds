@@ -19,6 +19,9 @@ body {
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
 	font-size: 100px;
+	font-size: 1.1em;
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
 }
 
 .synchro_club {
