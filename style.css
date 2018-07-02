@@ -19,7 +19,6 @@ body {
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
 	font-size: 100px;
-	font-size: 1.1em;
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
@@ -28,7 +27,7 @@ body {
 	text-align: center;
 	font-style: bold;
 	font-family: 'Mr Dafoe', cursive;
-	font-size: 1.1em;
+	font-size: 1.25em;
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
