@@ -36,4 +36,12 @@ body {
 	height: 500px;	
 }
 
+.flexbox-container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
 
