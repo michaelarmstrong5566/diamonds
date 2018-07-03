@@ -19,6 +19,9 @@ body {
 	font-style: bold;
 	font-family: 'Playfair Display', serif;
 	font-size: 100px;
+	/*hot pink*/
+	color: rgba(255,105,180,1);
+	font-weight: 900;	
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
@@ -30,6 +33,7 @@ body {
 	font-size: 0.50em;
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
+	/*hot pink*/
 	color: rgba(255,105,180,1);
 	font-weight: 900;	
 }
