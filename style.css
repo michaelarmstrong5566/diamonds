@@ -30,8 +30,8 @@ body {
 	font-size: 0.50em;
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
-	color: pink;
-	font-weight: 900;
+	color: rgba(255,105,180,1);
+	font-weight: 900;	
 }
 
 .d-block {
