@@ -26,6 +26,12 @@ body {
 	outline-offset: 1px;
 }
 
+#carouselExampleIndicators {
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
+}
+
+
 .synchro_club {
 	text-align: center;
 	font-style: bold;
