@@ -16,12 +16,14 @@ body {
 
 
 /*carousel text*/
-p {
+p + h5 {
 	/*hot pink
 	color: rgba(255,105,180,1);*/
 	color: black;
 	font-weight: 900;
 }
+
+
 
 #club-name {
 	text-align: center;
@@ -37,8 +39,8 @@ p {
 }
 
 #carouselExampleIndicators {
-	outline: 2px solid #F52C5B;
-	outline-offset: 3px;
+	outline: 3px solid #F52C5B;
+	outline-offset: 4px;
 }
 
 .nav {
