@@ -20,6 +20,14 @@ p  {
 	/*hot pink
 	color: rgba(255,105,180,1);*/
 	color: black;
+	font-weight: 450;
+}
+
+/*carousel text*/
+h1  {
+	/*hot pink
+	color: rgba(255,105,180,1);*/
+	color: black;
 	font-weight: 900;
 }
 
