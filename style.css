@@ -36,7 +36,10 @@ h5  {
 	font-weight: 900;
 }
 
-
+#myTabContent {
+	color: rgba(255,105,180,1);
+	font-weight: 900;
+}
 
 #club-name {
 	text-align: center;
