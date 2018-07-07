@@ -90,6 +90,10 @@ h5  {
   align-content: center;
 }
 
-
+.tab-pane {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 
 
