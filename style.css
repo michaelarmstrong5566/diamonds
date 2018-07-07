@@ -8,6 +8,10 @@ body {
 	background-size: cover;
 }
 
+img {
+	float: right;
+}
+
 
 /*
 body {
