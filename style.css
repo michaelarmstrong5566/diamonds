@@ -2,6 +2,12 @@
 	Property: value;
 }*/
 
+/*pointer will show on all clickable components*/
+button {
+	cursor: pointer;
+}
+
+
 /* Fallback Color pink*/
 body {
 	background: url(angle_fish.jpg) pink;
