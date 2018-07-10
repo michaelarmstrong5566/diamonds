@@ -129,6 +129,7 @@ h5  {
 	height: 500px;	
 }
 
+/*
 .flexbox-container {
   display: flex;
   flex-direction: column;
@@ -141,5 +142,4 @@ h5  {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-
-
+/*
