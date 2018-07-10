@@ -2,12 +2,12 @@
 	Property: value;
 }*/
 
-.flexbox-container {
+.flex-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  align-content: center;
+  background-color: DodgerBlue;
 }
+
+
 
 /*pointer will show on all clickable components*/
 button {
