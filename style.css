@@ -73,17 +73,17 @@ h5  {
 	outline-offset: 1px;*/
 }
 
+/*
 .carousel slide {
 	outline: 3px solid #F52C5B;
 	outline-offset: 4px;
-	/*maintains the same position on the page*/
 	position: fixed;
 	top: 100;
 	right: 0;
 	bottom: 0;
 	left: 0;
 	z-index: -1;
-}
+}*/
 
 /*
 .carousel-control-prev {
