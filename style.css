@@ -52,6 +52,8 @@ h5  {
 #myTab {
 	color: black;
 	font-weight: 900;
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
 }
 
 #myTabContent {
@@ -59,6 +61,11 @@ h5  {
 	font-weight: 450;
 	font-family: 'Playfair Display', serif;
 	font-size: 20px;
+}
+
+#carouselExampleIndicators {
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
 }
 
 #club-name {
