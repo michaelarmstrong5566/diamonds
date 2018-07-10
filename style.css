@@ -80,44 +80,7 @@ h5  {
 	outline-offset: 1px;
 }
 
-/*
-.carousel slide {
-	outline: 3px solid #F52C5B;
-	outline-offset: 4px;
-	position: fixed;
-	top: 100;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1;
-}*/
 
-/*
-.carousel-control-prev {
-	position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1;
-}
-
-.carousel-control-next {
-        position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1;
-}*/
-
-
-
-
-.nav {
-	/*outline: 2px solid #F52C5B;
-	outline-offset: 1px;*/
-}
 
 .synchro_club {
 	text-align: center;
@@ -139,10 +102,5 @@ h5  {
 
 
 
-/*
-.tab-pane {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-/*
+
+
