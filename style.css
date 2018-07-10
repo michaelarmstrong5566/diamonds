@@ -76,6 +76,13 @@ h5  {
 #carouselExampleIndicators {
 	/*outline: 3px solid #F52C5B;
 	outline-offset: 4px;*/
+	/*maintains the same position on the page*/
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
 }
 
 .nav {
