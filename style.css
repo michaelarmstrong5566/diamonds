@@ -58,29 +58,25 @@ body {
 }
 
 
-
-/*carousel text*/
+/*Picture Carousel*/
 p  {
-	/*hot pink
-	color: rgba(255,105,180,1);*/
-	color: black;
+	/*hot pink*/
+	color: rgba(255,105,180,1);
 	font-weight: 450;
 }
 
-/*carousel text*/
 h5  {
-	/*hot pink
-	color: rgba(255,105,180,1);*/
-	color: black;
+	/*hot pink*/
+	color: rgba(255,105,180,1);
 	font-weight: 900;
 }
-
-
 
 #carouselExampleIndicators {
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
+
+/*Club Name & Logo*/
 
 #club-name {
 	text-align: center;
@@ -100,8 +96,6 @@ h5  {
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
-
-
 
 .synchro_club {
 	text-align: center;
