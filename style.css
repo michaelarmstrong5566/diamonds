@@ -2,6 +2,7 @@
 	Property: value;
 }*/
 
+/*General*/
 .flex-container {
   display: flex;
   flex-direction: column;
@@ -14,8 +15,6 @@
   padding: 20px;
   font-size: 30px;
 }
-
-
 
 /*pointer will show on all clickable components*/
 button {
@@ -40,6 +39,25 @@ body {
 	background: pink;
 }*/
 
+/*Navigation Bar*/
+
+#myTab {
+	color: rgba(255,105,180,1);
+	font-weight: 900;
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
+}
+
+#myTabContent {
+	color: rgba(255,105,180,1);
+	font-weight: 900;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	outline: 2px solid #F52C5B;
+	outline-offset: 1px;
+}
+
+
 
 /*carousel text*/
 p  {
@@ -57,21 +75,7 @@ h5  {
 	font-weight: 900;
 }
 
-#myTab {
-	color: black;
-	font-weight: 900;
-	outline: 2px solid #F52C5B;
-	outline-offset: 1px;
-}
 
-#myTabContent {
-	color: black;
-	font-weight: 450;
-	font-family: 'Playfair Display', serif;
-	font-size: 20px;
-	outline: 2px solid #F52C5B;
-	outline-offset: 1px;
-}
 
 #carouselExampleIndicators {
 	outline: 2px solid #F52C5B;
