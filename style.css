@@ -102,12 +102,10 @@ h5  {
 	color: rgba(255,105,180,1);
 	font-weight: 900;
 	/*maintains the same position on the page*/
-	/*position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1;*/
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
