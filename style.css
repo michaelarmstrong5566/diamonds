@@ -4,6 +4,7 @@
 
 .flex-container {
   display: flex;
+  flex-direction: column;
   background-color: pink;
 }
 
