@@ -41,6 +41,11 @@ body {
 
 /*Navigation Bar*/
 
+.nav-link {
+	color: rgba(255,105,180,1);
+	font-weight: 900;
+}
+
 #myTab {
 	color: rgba(255,105,180,1);
 	font-weight: 900;
@@ -59,22 +64,32 @@ body {
 
 
 /*Picture Carousel*/
-p  {
-	/*hot pink*/
-	color: rgba(255,105,180,1);
-	font-weight: 450;
-}
 
-h5  {
-	/*hot pink*/
-	color: rgba(255,105,180,1);
-	font-weight: 900;
 }
 
 #carouselExampleIndicators {
 	outline: 2px solid #F52C5B;
 	outline-offset: 1px;
 }
+
+p  {
+	/*hot pink*/
+	color: rgba(255,105,180,1);
+	font-weight: 450;
+	font-family: 'Playfair Display', serif;
+}
+
+h5  {
+	/*hot pink*/
+	color: rgba(255,105,180,1);
+	font-weight: 900;
+	font-family: 'Playfair Display', serif;
+}
+
+.d-block {
+	height: 500px;	
+}
+
 
 /*Club Name & Logo*/
 
@@ -108,12 +123,6 @@ h5  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
 	font-weight: 900;	
-}
-
-.d-block {
-	height: 500px;	
-}
-
 
 
 
