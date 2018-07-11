@@ -102,7 +102,7 @@ h5  {
 	color: rgba(255,105,180,1);
 	font-weight: 900;
 	/*maintains the same position on the page*/
-	position: relative;
+	position: absolute;
 	right: 0px;
 	top: 0px;
 	z-index: -1;
