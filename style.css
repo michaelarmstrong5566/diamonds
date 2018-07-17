@@ -10,7 +10,7 @@
 }
 
 .flex-container > div {
-  background-color: rgba(0,255,0,0.35);
+  background-color: rgba(0,255,0,0.45);
   margin: 10px;
   padding: 20px;
   font-size: 30px;
@@ -109,7 +109,7 @@ h5  {
 .club-name-right{
 	position: absolute;
 	right: 0px;
-	bottom: 100px;
+	bottom: 250px;
 	z-index: -1;
 
 }
@@ -117,7 +117,7 @@ h5  {
 .club-name-left{
 	position: absolute;
 	left: 0px;
-	bottom: 100px;
+	bottom: 250px;
 	z-index: -1;
 }
 
