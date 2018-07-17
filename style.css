@@ -75,7 +75,7 @@ body {
 p  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
-	font-size: 2em;
+	font-size: 1em;
 	font-weight: 450;
 	font-family: 'Playfair Display', serif;
 }
@@ -83,7 +83,7 @@ p  {
 h5  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
-	font-size: 2em;
+	font-size: 1em;
 	font-weight: 900;
 	font-family: 'Playfair Display', serif;
 }
