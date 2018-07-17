@@ -10,7 +10,7 @@
 }
 
 .flex-container > div {
-  background-color: rgba(0,255,0,0.15);
+  background-color: rgba(0,255,0,0.35);
   margin: 10px;
   padding: 20px;
   font-size: 30px;
