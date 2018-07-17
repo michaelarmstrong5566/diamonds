@@ -137,7 +137,10 @@ h5  {
 	color: rgba(255,105,180,1);
 	font-weight: 900;	
 
-
+	
+.program_image {
+	float: right;
+	}
 
 
 
