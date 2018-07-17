@@ -109,7 +109,7 @@ h5  {
 .club-name-right{
 	position: absolute;
 	right: 0px;
-	bottom: 0px;
+	bottom: 100px;
 	z-index: -1;
 
 }
@@ -117,7 +117,7 @@ h5  {
 .club-name-left{
 	position: absolute;
 	left: 0px;
-	bottom: 0px;
+	bottom: 100px;
 	z-index: -1;
 }
 
