@@ -2,6 +2,10 @@
 	Property: value;
 }*/
 
+.programs {
+	float: right;
+	}
+
 /*General*/
 .flex-container {
   display: flex;
@@ -138,9 +142,6 @@ h5  {
 	font-weight: 900;	
 
 	
-.programs {
-	float: right;
-	}
 
 
 
