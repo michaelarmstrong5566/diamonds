@@ -2,6 +2,15 @@
 	Property: value;
 }*/
 
+#program_text {
+	float: left;
+}
+
+#program_photo {
+	float: right;
+
+}
+
 
 
 /*General*/
