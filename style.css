@@ -153,6 +153,8 @@ h5  {
 #program-div1 {
 	text-align: right;
 	background-color: black;
+	color: rgba(255,105,180,1);
+	font-weight: 900;
 }
 
 
