@@ -21,6 +21,7 @@
 }
 
 .flex-container > div {
+  /*whitesmoke*/
   background-color: rgba(245,245,245,1);
   margin: 10px;
   padding: 20px;
