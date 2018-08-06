@@ -11,8 +11,6 @@
 
 }
 
-
-
 /*General*/
 .flex-container {
   display: flex;
@@ -28,28 +26,34 @@
   font-size: 30px;
 }
 
+p, li  {
+	/*hot pink
+	color: rgba(255,105,180,1);*/
+	
+	/*black*/
+	color: rgba(0,0,0,1);
+	font-size: 1em;
+	font-weight: 450;
+	font-family: 'Playfair Display', serif;
+}
+
+h5  {
+	/*hot pink*/
+	color: rgba(255,105,180,1);
+	font-size: 1em;
+	font-weight: 900;
+	font-family: 'Playfair Display', serif;
+}
+
+
+
+
 /*pointer will show on all clickable components*/
 button {
 	cursor: pointer;
 }
 
 
-/* Fallback Color pink
-body {
-	background: url(angle_fish.jpg) pink;
-	background-size: cover;
-}*/
-
-/*
-img {
-	float: right;
-}*/
-
-
-/*
-body {
-	background: pink;
-}*/
 
 /*Navigation Bar*/
 
@@ -84,21 +88,6 @@ body {
 	outline-offset: 1px;
 }
 
-p, li  {
-	/*hot pink*/
-	color: rgba(255,105,180,1);
-	font-size: 1em;
-	font-weight: 450;
-	font-family: 'Playfair Display', serif;
-}
-
-h5  {
-	/*hot pink*/
-	color: rgba(255,105,180,1);
-	font-size: 1em;
-	font-weight: 900;
-	font-family: 'Playfair Display', serif;
-}
 
 .d-block {
 	height: 500px;	
@@ -134,8 +123,6 @@ h5  {
 	bottom: 250px;
 	z-index: -1;
 }
-
-
 
 .synchro_club {
 	text-align: center;
