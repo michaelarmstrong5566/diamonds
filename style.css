@@ -84,7 +84,7 @@ body {
 	outline-offset: 1px;
 }
 
-p  {
+p, li  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
 	font-size: 1em;
