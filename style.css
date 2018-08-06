@@ -2,6 +2,8 @@
 	Property: value;
 }*/
 
+strong { font-weight: bold; }
+
 #program_text {
 	float: left;
 }
