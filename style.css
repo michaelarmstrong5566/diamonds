@@ -34,15 +34,15 @@ p, li  {
 	
 	/*black*/
 	color: rgba(0,0,0,1);
-	font-size: 1em;
+	font-size: 0.75em;
 	font-weight: 300;
 	font-family: 'Playfair Display', serif;
 }
 
-h5  {
+h1, h5  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
-	font-size: 1em;
+	font-size: 0.75em;
 	font-weight: 900;
 	font-family: 'Playfair Display', serif;
 }
