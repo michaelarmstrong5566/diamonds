@@ -39,7 +39,7 @@ p, li  {
 	font-family: 'Playfair Display', serif;
 }
 
-h1, h5  {
+h5  {
 	/*hot pink*/
 	color: rgba(255,105,180,1);
 	font-size: 0.75em;
