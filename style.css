@@ -154,6 +154,15 @@ button {
 	font-weight: 900;
 }
 
+#program-div2 {
+	text-align: left;
+	background-color: rgba(255,105,180,1);
+	color: rgba(0,0,0,1);
+	font-weight: 900;
+}
+
+
+
 #pink-text {
 	text-align: left;
 	color: rgba(255,105,180,1);
