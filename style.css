@@ -170,4 +170,12 @@ button {
 	font-family: 'Playfair Display', serif;
 }
 
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+}
 
