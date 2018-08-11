@@ -169,5 +169,6 @@ button {
 .column {
     flex: 1;
     padding: 10px;
+    justify-content: center;
 }
 
