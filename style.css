@@ -46,6 +46,11 @@ p, li  {
 	font-family: 'Playfair Display', serif;
 }
 
+li.nav-item{
+	font-size: 1.25em;
+}
+
+
 h5  {
 	/*hot pink*/
 	color: rgba(0,0,0,1);
