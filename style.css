@@ -2,6 +2,13 @@
 	Property: value;
 }*/
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 strong { font-weight: bold; }
 
 #program_text {
@@ -163,12 +170,12 @@ button {
 
 .row {
     display: flex;
-    justify-content: center;
+    
 }
 
 .column {
     flex: 1;
     padding: 10px;
-    justify-content: center;
+   
 }
 
