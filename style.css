@@ -248,16 +248,16 @@ div.desc {
 /*Social Media Buttons, e.g. Facebook*/
 /* Style all font awesome icons */
 
-/*square
+/*square*/
 .fa {
     padding: 20px;
     font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-}*/
+}
 
-/*rounded*/
+/*rounded
 .fa {
     padding: 20px;
     font-size: 30px;
@@ -265,7 +265,7 @@ div.desc {
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
-}
+}*/
 
 
 /* Add a hover effect if you want */
